@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/home/cloud/calculator/src/main/java/com/oki6551/calculator/Calculator.java">
+</file>
+<file name="/home/cloud/calculator/src/main/java/com/oki6551/calculator/CalculatorApplication.java">
+</file>
+<file name="/home/cloud/calculator/src/main/java/com/oki6551/calculator/CalculatorController.java">
+</file>
+</checkstyle>
